@@ -1,0 +1,5 @@
+2026/06/10-11:21:03.052 13d65 Reusing MANIFEST /home/ivan/eliana/whatsapp-bot/whatsapp-session/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/10-11:21:03.056 13d65 Recovering log #3
+2026/06/10-11:21:03.057 13d65 Level-0 table #3: started
+2026/06/10-11:21:03.059 13d65 Level-0 table #3: 18498 bytes OK
+2026/06/10-11:21:03.061 13d65 Delete type=0 #3
